@@ -10,4 +10,4 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzo-leal&?count_private=true&theme=tokyonight)](https://github.com/Enzo-Leal/Enzo-Leal)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzo-leal&?count_private=true&theme=synthwave)](https://github.com/Enzo-Leal/Enzo-Leal)
