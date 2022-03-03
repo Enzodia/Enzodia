@@ -10,4 +10,4 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Enzo-Leal=anuraghazra&?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzo-leal&?count_private=true)](https://github.com/Enzo-Leal/Enzo-Leal)
