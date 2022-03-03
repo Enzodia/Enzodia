@@ -10,7 +10,4 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Enzo-Leal&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Enzo-Leal=anuraghazra&?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
