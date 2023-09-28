@@ -1,12 +1,3 @@
-### Hi there, I'm Enzo - aka [Enzodia]
-
-## I'm a student, freelancer and coffee addicted!!!
-
--  I'm currently learning everything mainly python related
--  I’m looking forward to improving my knowledge about programming logic and python modules
--  2022 Goals: learn about web and app development
--  how to reach me: enzo.leal.09@gmail.com
--  linkedin: https://www.linkedin.com/in/enzo-leal/
 
 
 ---
