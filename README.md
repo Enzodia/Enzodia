@@ -16,6 +16,7 @@
 
 
 -  I’m currently learning:
+  
     [![My Skills](https://skillicons.dev/icons?i=py,selenium,pytorch,tensorflow,django)](https://skillicons.dev)
 
 -  How to reach me: 
